@@ -18,3 +18,6 @@ A inclure:
     Prérequis pour evolué -> en fin de Vidéo youtube frère agent de joueur -> 3 point Parler anglais, Connaitre des limite, Voir à moyen long terme, ne pas viser de OneShoot
 
 -Voir les idées du prototype:
+
+-Savoir être autonome:
+    l'alimentation (savoir cusiner)
